@@ -62,14 +62,15 @@ To ensure your code is following the defined style and to fix issues, you can us
 
 **Linting** (runs ESLint):
 
-`````bash
+```bash
 npm run lint
+```
 
-Formatting (runs Prettier):
+**Formatting** (runs Prettier):
 
-````bash
+```bash
 npm run format
-`````
+```
 
 ### 6. **Deploy to GitHub Pages**
 
@@ -86,5 +87,6 @@ Deploy the dist folder to GitHub Pages:
 ```bash
 
 npm run deploy
-Your site will be deployed to https://your-username.github.io/my-new-project.
 ```
+
+Your site will be deployed to https://your-username.github.io/my-new-project.
